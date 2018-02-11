@@ -1,2 +1,2 @@
-# ajilraju.github.io
+# Megalodon website
 A Personal website associated with github.io
