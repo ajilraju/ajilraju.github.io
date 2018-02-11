@@ -1237,6 +1237,8 @@ label.span4 {
 #pro_pic {
 
 	border-radius: 50%;
+	width: auto;
+  height: auto;
 }
 
 #pro_name {
@@ -1245,9 +1247,29 @@ label.span4 {
 	float: right;
 	padding-left: 10px;
 	padding-top: 10%;
+	overflow: hidden;
 
 }
 #heart {
 	font-size: 1.5em;
 	color: red;
+}
+@media all and (max-device-width: 720px){
+    #pro_name {
+        font-size: 22px;
+    }
+}
+
+@media all and (max-device-width: 640px){
+    #pro_name {
+        font-size: 20px;
+				margin-top: 15px;
+    }
+}
+
+@media all and (max-device-width: 320px){
+    #pro_name {
+        font-size: 20px;
+				margin-right: : 50px;
+    }
 }
