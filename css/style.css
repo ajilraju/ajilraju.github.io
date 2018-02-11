@@ -1240,6 +1240,14 @@ label.span4 {
 }
 
 #pro_name {
-
+	font-family: 'Roboto';
+	font-size: 2.5em;
 	float: right;
+	padding-left: 10px;
+	padding-top: 10%;
+
+}
+#heart {
+	font-size: 1.5em;
+	color: red;
 }
