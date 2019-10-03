@@ -54,6 +54,7 @@ label{
 .social-icons {
 	float:right;
 	margin-top: 1.8em;
+	margin-right: 3em;
 }
 .social-icons i {
 	width:45px;
@@ -513,6 +514,7 @@ label.span4 {
 	}
 	.social-icons {
 		margin-top: 1.5em;
+		margin-right: 3em;
 	}
 	.about_user {
 		padding: 1em 0;
