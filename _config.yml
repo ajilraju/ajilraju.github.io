@@ -53,7 +53,7 @@ google_site_verification:               # fill in to your verification string
 # The end of `jekyll-seo-tag` settings
 
 google_analytics:
-  id: 326646808
+  id: UA-231671384-1
 
 google:
   tag_manager:
